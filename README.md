@@ -8,7 +8,7 @@ Welcome to the Flower Garden! This is a simple web page featuring a charming flo
 
 
 ## Introduction
-This project showcases a delightful flower garden created with HTML and CSS. It consists of three flowers, each styled with a different color—pink, purple, and blue. Additionally, there are heart shapes scattered across the garden to add a touch of romance.
+This project showcases a delightful flower garden created with HTML and CSS. It consists of three flowers, that are teal. Additionally, there leafs breezing on the side of it!
 
 ## Features
 - Three animated flowers 
