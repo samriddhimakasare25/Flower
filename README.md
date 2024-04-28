@@ -22,8 +22,8 @@ To view the flower garden, simply open the index.html file in your web browser. 
 git clone https://github.com/samriddhimakasare25/Flower.git
 
 # Navigate to the project directory
-cd flower
-npm install -g sass
-sass --watch style.scss:style.css
+- cd flower
+- npm install -g sass
+- sass --watch style.scss:style.css
 
 # Open index.html in your web browser
